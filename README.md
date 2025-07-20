@@ -29,7 +29,7 @@ This collaborative project was developed as part of a team initiative to enhance
 ### 🔐 My Responsibilities
 
 - 🔐 **Login & Registration System**
-  - Built using **Spring Security** and **OAuth** for secure user authentication.
+  - Built using **Spring Security (Cryptography)** and **OAuth2** for secure user authentication.
   - Included password encryption and session management.
 
 - 📊 **Progress Visualization**
